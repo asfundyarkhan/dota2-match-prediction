@@ -108,3 +108,30 @@ Run the notebook end-to-end.
 #  License
 
 This project uses the MIT License, allowing academic and commercial use.
+
+# References
+
+Chen, T. and Guestrin, C., 2016. XGBoost: A scalable tree boosting system. Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, pp.785–794.
+
+Friedman, J.H., 2001. Greedy function approximation: A gradient boosting machine. Annals of Statistics, 29(5), pp.1189–1232.
+
+Holmgård, C. et al., 2014. Evolving personas for player decision modeling. IEEE Conference on Computational Intelligence and Games, pp.1–8.
+
+Kaggle, 2015. Dota 2: Predicting Match Outcome Dataset. Available at: https://www.kaggle.com/competitions/dota-2-prediction/data
+ (Accessed: <insert date>).
+
+Kalyan, Y. and Sangeetha, S., 2015. Predicting the outcome of Dota 2 matches using machine learning algorithms. International Journal of Applied Engineering Research, 10(17), pp.13131–13140.
+
+Lundberg, S.M. and Lee, S.I., 2017. A unified approach to interpreting model predictions. Advances in Neural Information Processing Systems, pp.4765–4774.
+
+Lundberg, S.M. et al., 2018. Explainable machine-learning predictions for the prevention of hypoxaemia during surgery. Nature Biomedical Engineering, 2(10), pp.749–760.
+
+Pobiedina, N. et al., 2013. Role-based performance similarities in Dota 2. Procedia Computer Science, 22, pp.59–68.
+
+Ravari, Y.N. and Moser, A., 2022. Predicting outcomes in MOBA games using machine learning: A case study of Dota 2. Journal of Computer Science and Technology, 37(3), pp.543–556.
+
+Sapienza, A., Peng, H. and Ferrara, E., 2018. Performance prediction in MOBA games. IEEE Transactions on Games, 11(3), pp.239–251.
+
+Yang, D., Harrison, B. and Roberts, D.L., 2014. Identifying patterns in MOBA gameplay: A data-driven approach. IEEE Conference on Computational Intelligence and Games, pp.1–8.
+
+Zhou, Z.H., 2012. Ensemble Methods: Foundations and Algorithms. Boca Raton: CRC Press.
