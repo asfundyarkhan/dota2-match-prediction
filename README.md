@@ -12,7 +12,8 @@ Ethical considerations of predictive analytics in competitive gaming
 
 This repository serves as both an educational tutorial and a reproducible machine-learning workflow for esports analysts, students, and researchers.
 
-++++ Repository Structure ++++
+# Repository Structure
+
 dota2-match-prediction/
 │
 ├── README.md                → Project overview
