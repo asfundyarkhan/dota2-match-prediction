@@ -24,11 +24,6 @@ dota2-match-prediction/
 │
 ├── tutorial/
 │   └── tutorial.pdf         → <2000-word tutorial for assignment
-│
-└── images/                  → Plots used in tutorial
-    ├── feature_importance.png
-    ├── shap_summary.png
-    └── confusion_matrix.png
 
 #  Dataset
 
