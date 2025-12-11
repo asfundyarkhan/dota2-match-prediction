@@ -1,4 +1,4 @@
-# +++++ Dota 2 Match Outcome Prediction using Gradient Boosting ++++
+# Dota 2 Match Outcome Prediction using Gradient Boosting
 
 This repository contains the full code, tutorial, and explainability analysis for predicting Dota 2 match outcomes using XGBoost (gradient boosting). The project demonstrates:
 
@@ -29,15 +29,15 @@ dota2-match-prediction/
     ├── shap_summary.png
     └── confusion_matrix.png
 
-# ++++ Dataset +++++
+#  Dataset
 
 We use the Dota 2: Predicting Match Outcome dataset from Kaggle:
 
-# ++++ https://www.kaggle.com/competitions/dota-2-prediction/data +++++
+#  https://www.kaggle.com/competitions/dota-2-prediction/data
 
 This includes early-game match statistics and the target variable radiant_win.
 
-# ++++ Machine Learning Model ++++
+#  Machine Learning Model 
 
 We use XGBoost, a gradient-boosting method known for:
 
@@ -63,7 +63,7 @@ Evaluation metrics (accuracy, AUC, confusion matrix)
 
 Explainability analysis
 
-# +++ Explainability Tools ++++
+#  Explainability Tools
 Feature Importance
 
 Shows which variables most affected predictions (e.g., gold advantage, tower status).
@@ -78,7 +78,7 @@ Local → why a specific match was predicted as a Radiant win or loss
 
 This is essential for ethical, transparent AI in esports analytics.
 
-# ++++ Ethical Considerations ++++
+#  Ethical Considerations
 
 The tutorial discusses the impact of ML in esports, including:
 
@@ -90,7 +90,7 @@ Data bias
 
 Transparency in analytical tools
 
-# ++++ How to Run the Notebook ++++
+# How to Run the Notebook
 
 Open in Google Colab:
 
@@ -104,6 +104,6 @@ Download dataset using:
 
 Run the notebook end-to-end.
 
-#  ++++ License ++++
+#  License
 
 This project uses the MIT License, allowing academic and commercial use.
